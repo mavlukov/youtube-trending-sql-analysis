@@ -8,7 +8,7 @@ The analysis explores the highest-engagement videos and compares comment activit
 
 ## Dataset
 
-Dataset: `youtube.trending`
+Dataset: youtube.trending
 
 The dataset contains **6,351 trending YouTube videos** recorded in the United States between **November 2017 and June 2018**.
 
